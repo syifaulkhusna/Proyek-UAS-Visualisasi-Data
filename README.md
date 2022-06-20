@@ -14,6 +14,7 @@ Dataset yang digunakan adalah dataset hasil revisi : "Kapasitas Terpasang.xlsx".
 
 3. Software
 Software yang digunakan untuk visualisasi ini adalah tableu public. Kemudian hasil visualisasi diupload dalam server tableau public, dapat diakses dalam link berikut :
+https://public.tableau.com/shared/G3W2XMZ6W?:display_count=n&:origin=viz_share_link
 
 4. Laporan
-Hasil makalah dapat dilihan dalam file : ""
+Hasil makalah dapat dilihan dalam file : "3SD1_221910689_Proyek UAS Visualisasi Data"
