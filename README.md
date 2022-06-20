@@ -1,4 +1,8 @@
 # Proyek-UAS-Visualisasi-Data
+S Sifa'ul Khusna M.M
+
+221910689/3SD1
+
 KAPASITAS TERPASANG PEMBANGKIT LISTRIK DI INDONESIA
 
 1. Preprocessing
