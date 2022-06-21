@@ -12,7 +12,7 @@ Data yang digunakan diambil dari publikasi BPS "Statistik Listrik 2015-2020"
 
 Dataset yang digunakan adalah dataset hasil revisi : "Kapasitas Terpasang.xlsx".
 
-	Dataset berupa data spasial yang digunakan untuk visualisasi adalah dalam tingkat provinsi : "gadm40_IDN_1.shp"
+Dataset berupa data spasial yang digunakan untuk visualisasi adalah dalam tingkat provinsi : "gadm40_IDN_1.shp"
 
 3. Software
 Software yang digunakan untuk visualisasi ini adalah tableu public. Kemudian hasil visualisasi diupload dalam server tableau public, dapat diakses dalam link berikut :
