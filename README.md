@@ -9,6 +9,7 @@ KAPASITAS TERPASANG PEMBANGKIT LISTRIK DI INDONESIA
 Tidak dilakukan coding dalam tahap preprocessing. Hanya dilakukan perubahan bentuk data agar lebih mudah digunakan dalam software tableau.
 2. Dataset
 Data yang digunakan diambil dari publikasi BPS "Statistik Listrik 2015-2020"
+
 Dataset yang digunakan adalah dataset hasil revisi : "Kapasitas Terpasang.xlsx".
 
 	Dataset berupa data spasial yang digunakan untuk visualisasi adalah dalam tingkat provinsi : "gadm40_IDN_1.shp"
@@ -18,9 +19,13 @@ Software yang digunakan untuk visualisasi ini adalah tableu public. Kemudian has
 https://public.tableau.com/shared/G3W2XMZ6W?:display_count=n&:origin=viz_share_link
 
 Beberapa kendala dalam proses pembuatan dashboard adalah :
- a. Saat telah ter upload, hasil yang ditampilkan pada layar tableau berbeda dengan hasil edit terakhir.
- b. Beberapa chart terpotong ukurannya, sehingga pengaturan layout sempat diubah-ubah.
- c. Saat dashboard yang telah terupload di edit lagi dalam web tableau, yang ter loading adalah hasil yang benar. 
+
+a. Saat telah ter upload, hasil yang ditampilkan pada layar tableau berbeda dengan hasil edit terakhir.
+
+b. Beberapa chart terpotong ukurannya, sehingga pengaturan layout sempat diubah-ubah.
+
+c. Saat dashboard yang telah terupload di edit lagi dalam web tableau, yang ter loading adalah hasil yang benar. 
+
 Kendala -kendala tersebut telah teratasi dengan mengupload berkali-kali sehingga halaman tableau milik peneliti banyak proyek yang sama.
 
 4. Laporan
